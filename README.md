@@ -5,7 +5,7 @@ Arduino sketch to operate landline phone which sends MIDI notes
 
 This project takes a vintage touch tone phone and converts it into a musical instrument, or more specifically, a MIDI controller using the push-buttons to generate the signals for musical notes.
 
-Read more at [Instructables](See instructions at https://www.instructables.com/Touch-Tone-MIDI-Phone/)
+Read more at [Instructables](https://www.instructables.com/Touch-Tone-MIDI-Phone/)
 
 ## Attributions
 
